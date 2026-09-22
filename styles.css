@@ -35,7 +35,7 @@ img{max-width:100%;display:block}
 .hero .txt h1{font-size:clamp(30px,6vw,52px);line-height:1.08;letter-spacing:-.02em;margin:0 0 10px;font-weight:700}
 .hero .txt p{margin:0 0 16px;color:var(--mut);font-size:16.5px;max-width:52ch}
 .hero .pic{border-radius:var(--r);overflow:hidden;aspect-ratio:4/3;background:var(--sur2)}
-.hero .pic img{width:100%;height:100%;object-fit:cover}
+.hero .pic picture,.hero .pic img{width:100%;height:100%;object-fit:cover;display:block}
 @media (min-width:900px){.hero{grid-template-columns:1.1fr .9fr;align-items:center;gap:40px;padding:44px 0 16px}.hero .pic{aspect-ratio:5/4}}
 .date{color:var(--acc);font-weight:700;font-size:14px;margin:0 0 6px}
 /* 段落 */
@@ -98,7 +98,7 @@ h2.sec small{font-size:13px;color:var(--mut);font-weight:500}
 @media (min-width:900px){.days{grid-template-columns:repeat(2,1fr)}.days .day:first-child{grid-column:1/-1}}
 .day{display:grid;grid-template-columns:120px 1fr;gap:14px;text-decoration:none;background:var(--sur);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;transition:transform .2s cubic-bezier(.16,1,.3,1)}
 .day:hover{transform:translateY(-2px)}
-.day img{width:100%;height:100%;object-fit:cover;min-height:120px}
+.day picture{display:block;height:100%}.day img{width:100%;height:100%;object-fit:cover;min-height:120px}
 .day .b{padding:14px 16px 14px 0}
 .day .b .d{color:var(--acc);font-weight:700;font-size:13.5px}
 .day .b h3{margin:2px 0 4px;font-size:18px;line-height:1.3}
@@ -106,7 +106,7 @@ h2.sec small{font-size:13px;color:var(--mut);font-weight:500}
 @media (min-width:900px){.days .day:first-child{grid-template-columns:1fr 1fr}.days .day:first-child img{min-height:260px}.days .day:first-child .b{padding:22px 24px}}
 .gallery{display:grid;gap:10px;margin:14px 0}
 @media (min-width:700px){.gallery{grid-template-columns:2fr 1fr}}
-.gallery img{border-radius:var(--r);width:100%;height:100%;object-fit:cover;aspect-ratio:3/2}
+.gallery picture{display:block}.gallery img{border-radius:var(--r);width:100%;height:auto;object-fit:cover;aspect-ratio:3/2}
 figcaption{font-size:12.5px;color:var(--mut);margin-top:4px}
 footer{margin:40px 0 20px;padding-top:16px;border-top:1px solid var(--line);color:var(--mut);font-size:13px;line-height:1.6}
 footer a{color:var(--mut);display:inline-block;padding:10px 2px}
