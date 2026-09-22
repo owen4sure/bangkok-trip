@@ -23,3 +23,11 @@ https://owen4sure.github.io/bangkok-trip/  （手機 Safari 打開，分享 > �
 - styles.css / app.js / img/
 
 自動依系統切換深色 / 淺色。內容以 2026 年 9 月查證，出發前請再確認官網。
+
+## 匯入 Google My Maps（把所有景點分類放進 Google 地圖）
+1. 手機或電腦開 https://www.google.com/maps/d/ → 「建立新地圖」。
+2. 左側「匯入」→ 選 `曼谷景點-MyMaps.csv`。
+3. 定位欄位選「地址」（Google 會自動把店名定位到正確位置），標題欄位選「名稱」。
+4. 圖層右上「統一樣式」→ 改成「依資料欄設定樣式：分類」，七個分類就會各自一個顏色。
+5. 存檔後，手機 Google Maps →「已儲存」→「地圖」就看得到；每個點都有排定日、說明與連結。
+（`曼谷景點-MyMaps.kml` 是同一份、只含已確認座標的版本，Google Earth 可直接開。）

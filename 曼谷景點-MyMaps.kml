@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>曼谷 9/24-9/28 一個人與一隻猩</name><Style id="s_住宿交通"><IconStyle><color>ff8a8a8a</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style><Style id="s_景點"><IconStyle><color>ff3fa9e3</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style><Style id="s_餐廳小吃"><IconStyle><color>ff4f6fe8</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style><Style id="s_咖啡廳"><IconStyle><color>ff2fa36f</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style><Style id="s_酒吧夜生活"><IconStyle><color>ffc63fe3</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style><Style id="s_商場購物"><IconStyle><color>ff3f7fe3</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style><Style id="s_按摩健身"><IconStyle><color>ff7fcf3f</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style><Folder><name>住宿交通</name><Placemark><name>Eastin Grand Hotel Phayathai</name><description>排定：全程
+飯店。BTS 與機場快線 Phaya Thai 站同棟
+https://www.eastingrandphayathai.com/</description><styleUrl>#s_住宿交通</styleUrl><Point><coordinates>100.5323786,13.7567869,0</coordinates></Point></Placemark><Placemark><name>蘇汪那蓬機場 BKK</name><description>排定：9/24, 9/28
+機場快線到 Phaya Thai 26-30 分
+</description><styleUrl>#s_住宿交通</styleUrl><Point><coordinates>100.7485803,13.6818767,0</coordinates></Point></Placemark><Placemark><name>Rajadamnern 泰拳館</name><description>排定：9/26
+週六 RWS 19:00-22:00，已訂票
+https://rajadamnern.com/</description><styleUrl>#s_住宿交通</styleUrl><Point><coordinates>100.5087556,13.7610018,0</coordinates></Point></Placemark><Placemark><name>Taling Chan 水上市場碼頭</name><description>排定：9/26
+週六 13:30 長尾船班次
+</description><styleUrl>#s_住宿交通</styleUrl><Point><coordinates>100.4565735,13.7764049,0</coordinates></Point></Placemark><Placemark><name>ICONSIAM 碼頭（夜船）</name><description>排定：9/25
+Chao Phraya Princess check-in 18:30
+https://www.chaophrayaprincess.com/reservations.php</description><styleUrl>#s_住宿交通</styleUrl><Point><coordinates>100.510294,13.7268227,0</coordinates></Point></Placemark></Folder><Folder><name>景點</name><Placemark><name>大皇宮 Grand Palace</name><description>排定：9/26
+08:30-15:30 停售，500 銖，長褲包肩
+https://www.royalgrandpalace.th/en/home</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.4918643,13.7493514,0</coordinates></Point></Placemark><Placemark><name>臥佛寺 Wat Pho</name><description>排定：9/26
+08:00-18:30，46 公尺臥佛
+https://www.watpho.com/en/home</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.4927381,13.7463456,0</coordinates></Point></Placemark><Placemark><name>鄭王廟 Wat Arun</name><description>排定：9/26
+從 Chom Arun 隔河看日落與打燈
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.4885137,13.7438976,0</coordinates></Point></Placemark><Placemark><name>水門寺 Wat Paknam</name><description>排定：9/26
+08:00-18:00，五樓穹頂下午最美
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.4704273,13.7216719,0</coordinates></Point></Placemark><Placemark><name>Wat Kamphaeng Bang Chak</name><description>排定：9/26
+長尾船行程停靠的古廟
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.4633018,13.7303499,0</coordinates></Point></Placemark><Placemark><name>Safari World</name><description>排定：9/25
+小猩猩的一天。09:00-17:00，週一休
+https://www.safariworld.com/</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.7030597,13.8650168,0</coordinates></Point></Placemark><Placemark><name>Harajuku Thailand</name><description>排定：9/25 選項
+日式村落，免門票，週五 10:00-22:00
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.9228937,13.8085551,0</coordinates></Point></Placemark><Placemark><name>Hong Sieng Kong 宏成功</name><description>排定：9/27
+兩百年中式老宅，河邊早午餐
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.5115584,13.7347508,0</coordinates></Point></Placemark><Placemark><name>Song Wat 宋旺路</name><description>排定：9/27
+Time Out 全球 40 酷街區，咖啡巡禮
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.5060421,13.7388961,0</coordinates></Point></Placemark><Placemark><name>Warehouse 30</name><description>排定：9/27 選項
+二戰倉庫改選物與藝廊
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.5147912,13.7280919,0</coordinates></Point></Placemark><Placemark><name>Chao Phraya Sky Park</name><description>排定：選項
+全球第一座跨河公園，到 20:00
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.4984969,13.7389727,0</coordinates></Point></Placemark><Placemark><name>Ari 街區</name><description>排定：9/28
+最後一個早上，咖啡與選物
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.5446888,13.7802077,0</coordinates></Point></Placemark><Placemark><name>The Hamlet Ari</name><description>排定：9/28
+花園型藝文空間
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.5417446,13.7804686,0</coordinates></Point></Placemark><Placemark><name>MOCA 當代藝術館</name><description>排定：未排
+週二-日 10:00-18:00，180 銖
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.5625859,13.8519153,0</coordinates></Point></Placemark><Placemark><name>Siriraj Medical Museum</name><description>排定：未排
+死亡博物館，週三-一 10:00-17:00
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.4854995,13.7587143,0</coordinates></Point></Placemark><Placemark><name>Siam Amazing Park</name><description>排定：未排
+金氏紀錄最大人造海浪池
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.695068,13.8067611,0</coordinates></Point></Placemark><Placemark><name>Khao San Road 考山路</name><description>排定：9/26 選項
+背包客夜生活街
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.4972746,13.7589052,0</coordinates></Point></Placemark><Placemark><name>Soi Rambuttri</name><description>排定：9/26 選項
+考山路旁安靜的按摩與樹蔭街
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.4943068,13.761512,0</coordinates></Point></Placemark><Placemark><name>Chatuchak 週末市集</name><description>排定：未排（週末才開）
+9/26 六可去，古著在 Section 5-6
+</description><styleUrl>#s_景點</styleUrl><Point><coordinates>100.5511228,13.8002651,0</coordinates></Point></Placemark></Folder><Folder><name>餐廳小吃</name><Placemark><name>Phed Mark 打拋豬</name><description>排定：9/24
+Mark Wiens 的店，10:00-19:00
+https://danielfooddiary.com/2025/02/17/phedmark/</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.5838605,13.7203029,0</coordinates></Point></Placemark><Placemark><name>Rung Rueang 豬肉麵</name><description>排定：9/24
+米其林必比登，08:00-17:00
+</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.5704644,13.7283099,0</coordinates></Point></Placemark><Placemark><name>KanonSiam 斑斕糕（CentralWorld）</name><description>排定：9/24
+小猩猩指定甜點
+</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.5390414,13.7465769,0</coordinates></Point></Placemark><Placemark><name>Banthat Thong 朱拉夜市</name><description>排定：9/24
+18:00 後全開
+</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.5219028,13.7374014,0</coordinates></Point></Placemark><Placemark><name>邢泰記 Kope Hya Tai Kee</name><description>排定：9/26
+1952 年泰華咖啡店，07:00-20:00
+</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.5459578,13.7268555,0</coordinates></Point></Placemark><Placemark><name>Chom Arun</name><description>排定：9/26
+正對鄭王廟，11:00-21:30，必訂位
+</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.4918309,13.7440368,0</coordinates></Point></Placemark><Placemark><name>theCOMMONS Thonglor</name><description>排定：9/25 選項
+08:00-01:00 美食庭院
+https://www.thecommonsbkk.com/thonglor/find-us</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.5821642,13.7349518,0</coordinates></Point></Placemark><Placemark><name>Nobu Bangkok</name><description>排定：9/27 排定 19:30
+已查有位，服裝規定嚴
+https://noburestaurants.com/bangkok/reservations</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.5302518,13.7204607,0</coordinates></Point></Placemark><Placemark><name>SookSiam（ICONSIAM 地面層）</name><description>排定：9/27
+室內浮動市場 170 攤
+https://www.iconsiam.com/en</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.510294,13.7268227,0</coordinates></Point></Placemark><Placemark><name>Urai 滷鵝</name><description>排定：9/27
+六十年家族配方
+</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.5075246,13.7381643,0</coordinates></Point></Placemark><Placemark><name>水門雞飯 Go-Ang Pratunam</name><description>排定：9/28 選項
+米其林必比登，粉紅制服
+</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.5420858,13.7496404,0</coordinates></Point></Placemark><Placemark><name>耀華力路 Yaowarat 宵夜</name><description>排定：9/26 選項
+烤生蠔、Jek Pui 咖哩飯
+</description><styleUrl>#s_餐廳小吃</styleUrl><Point><coordinates>100.5038701,13.7444035,0</coordinates></Point></Placemark></Folder><Folder><name>咖啡廳</name><Placemark><name>Factory Coffee</name><description>排定：9/25, 9/26
+飯店旁，08:00-16:00
+https://factorybkk.com/</description><styleUrl>#s_咖啡廳</styleUrl><Point><coordinates>100.5354732,13.7594502,0</coordinates></Point></Placemark><Placemark><name>Nana Coffee Roasters Ari</name><description>排定：9/28
+老宅大庭園，有工作大桌
+</description><styleUrl>#s_咖啡廳</styleUrl><Point><coordinates>100.5419711,13.782685,0</coordinates></Point></Placemark><Placemark><name>Poet House Ari</name><description>排定：9/28
+玻璃屋，Ari 最安靜
+</description><styleUrl>#s_咖啡廳</styleUrl><Point><coordinates>100.5413203,13.7829543,0</coordinates></Point></Placemark><Placemark><name>Porcupine Cafe Ari</name><description>排定：9/28
+紅磚木屋，插座多
+</description><styleUrl>#s_咖啡廳</styleUrl><Point><coordinates>100.5429357,13.7831126,0</coordinates></Point></Placemark><Placemark><name>Naam 1608</name><description>排定：9/27
+寺廟後面河邊秘密咖啡
+</description><styleUrl>#s_咖啡廳</styleUrl><Point><coordinates>100.5118388,13.7334218,0</coordinates></Point></Placemark></Folder><Folder><name>酒吧夜生活</name><Placemark><name>Tichuca Rooftop Bar</name><description>排定：9/25
+46 樓 LED 大樹，週五 17:30-01:00
+https://www.tichuca.co/</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5804417,13.7220802,0</coordinates></Point></Placemark><Placemark><name>Sing Sing Theater</name><description>排定：9/25 選項
+老上海風夜店
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5735064,13.7281338,0</coordinates></Point></Placemark><Placemark><name>Rabbit Hole Thonglor</name><description>排定：9/25 選項
+藏起來的調酒吧
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5811206,13.7298981,0</coordinates></Point></Placemark><Placemark><name>Soi Cowboy 牛仔街</name><description>排定：9/24
+排定 22:30，200 公尺霓虹街，安全
+https://www.tripadvisor.com/Attraction_Review-g293916-d2492791-Reviews-Soi_Cowboy-Bangkok.html</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.562157,13.7370287,0</coordinates></Point></Placemark><Placemark><name>Nana Plaza</name><description>排定：9/24 選項
+小猩猩排的，紅燈區綜合體
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5530342,13.7414838,0</coordinates></Point></Placemark><Placemark><name>APT 101</name><description>排定：9/24 選項
+1970 年代紐約公寓風
+https://apt101club.com/</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5590861,13.7385325,0</coordinates></Point></Placemark><Placemark><name>Havana Social</name><description>排定：9/24 選項
+電話亭進去的古巴地下酒吧
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5558713,13.745528,0</coordinates></Point></Placemark><Placemark><name>Above Eleven</name><description>排定：9/24 選項
+33 樓 rooftop
+https://aboveeleven.com/</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5564443,13.7455342,0</coordinates></Point></Placemark><Placemark><name>Levels Club</name><description>排定：9/24 選項
+EDM 大型夜店
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5559609,13.7443925,0</coordinates></Point></Placemark><Placemark><name>BKK Social Club</name><description>排定：9/27 選項
+World&#x27;s 50 Best #49
+https://www.the50.com/bars/the-list/bkk-social-club.html</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5102164,13.7114269,0</coordinates></Point></Placemark><Placemark><name>Dry Wave Cocktail Studio</name><description>排定：9/27 選項
+亞洲 50 大 #4
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.580674,13.7337062,0</coordinates></Point></Placemark><Placemark><name>Bar Us</name><description>排定：9/27 選項
+亞洲 50 大 #6
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5694059,13.7255443,0</coordinates></Point></Placemark><Placemark><name>Vesper</name><description>排定：9/27 選項
+007 Vesper Martini
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5334436,13.7270401,0</coordinates></Point></Placemark><Placemark><name>Lennon&#x27;s</name><description>排定：選項
+黑膠配調酒
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5489881,13.7434718,0</coordinates></Point></Placemark><Placemark><name>Opium Bar</name><description>排定：9/27 選項
+亞洲 50 大 #25，前身鴉片館
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5084784,13.739215,0</coordinates></Point></Placemark><Placemark><name>Tep Bar</name><description>排定：9/26 選項
+泰式樂器現場
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5143618,13.7396043,0</coordinates></Point></Placemark><Placemark><name>Teens of Thailand</name><description>排定：9/26 選項
+琴酒專門
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5139091,13.7398344,0</coordinates></Point></Placemark><Placemark><name>Asia Today</name><description>排定：9/26 選項
+蜂蜜調酒
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5141429,13.7398355,0</coordinates></Point></Placemark><Placemark><name>Sky Bar lebua</name><description>排定：選項
+醉後大丈夫 2，63 樓
+https://lebua.com/restaurants-bars/sky-bar/</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5170726,13.7212222,0</coordinates></Point></Placemark><Placemark><name>RCA Royal City Avenue</name><description>排定：9/27 選項
+17 間大型夜店一條路
+https://royalcityavenue.com/clubs</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.5758157,13.7511319,0</coordinates></Point></Placemark><Placemark><name>Brick Bar Khao San</name><description>排定：9/26 選項
+live band
+</description><styleUrl>#s_酒吧夜生活</styleUrl><Point><coordinates>100.4984729,13.7585971,0</coordinates></Point></Placemark></Folder><Folder><name>商場購物</name><Placemark><name>CentralWorld</name><description>排定：9/24
+KanonSiam + Chago
+https://www.centralworld.co.th/</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.5390414,13.7465769,0</coordinates></Point></Placemark><Placemark><name>ICONSIAM</name><description>排定：9/27
+河景旗艦，水舞秀 18:30/20:00
+https://www.iconsiam.com/en</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.510294,13.7268227,0</coordinates></Point></Placemark><Placemark><name>Siam Paragon</name><description>排定：9/27 選項
+SEA LIFE 水族館，美食街
+https://www.siamparagon.co.th/</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.534954,13.7467785,0</coordinates></Point></Placemark><Placemark><name>Siam Discovery</name><description>排定：9/27 選項
+設計選物百貨
+https://www.siamdiscovery.co.th/</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.5315293,13.7466866,0</coordinates></Point></Placemark><Placemark><name>Gaysorn Amarin</name><description>排定：9/27 選項
+LV The Place
+</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.5412971,13.743512,0</coordinates></Point></Placemark><Placemark><name>EmQuartier</name><description>排定：備選
+40 公尺室內瀑布
+</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.5696359,13.7319633,0</coordinates></Point></Placemark><Placemark><name>EmSphere</name><description>排定：備選
+市中心 IKEA、8-10 樓酒吧
+</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.5660757,13.7325129,0</coordinates></Point></Placemark><Placemark><name>Dusit Central Park</name><description>排定：備選
+泰國最大屋頂花園
+https://dusitcentralpark.com/</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.5378142,13.7283196,0</coordinates></Point></Placemark><Placemark><name>Mega Bangna</name><description>排定：不建議
+離市區 35-40 分
+</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.6806355,13.6338393,0</coordinates></Point></Placemark><Placemark><name>Platinum Fashion Mall 水門</name><description>排定：9/28 選項
+服裝批發
+</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.5393912,13.7500065,0</coordinates></Point></Placemark><Placemark><name>Fashion Island</name><description>排定：9/25 選項
+Safari World 附近，溜冰、雷射槍戰
+</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.6770299,13.8242144,0</coordinates></Point></Placemark><Placemark><name>Or Tor Kor 市場</name><description>排定：未排
+泰國最好的水果市場
+</description><styleUrl>#s_商場購物</styleUrl><Point><coordinates>100.5475746,13.7971301,0</coordinates></Point></Placemark></Folder><Folder><name>按摩健身</name><Placemark><name>Health Land Asoke</name><description>排定：9/24 選項
+09:00-23:00
+</description><styleUrl>#s_按摩健身</styleUrl><Point><coordinates>100.5609182,13.7410877,0</coordinates></Point></Placemark><Placemark><name>Perception Blind Massage Sathorn</name><description>排定：選項
+視障按摩師，450 銖/小時
+https://www.perceptionblindmassage.com/</description><styleUrl>#s_按摩健身</styleUrl><Point><coordinates>100.5313694,13.7225585,0</coordinates></Point></Placemark><Placemark><name>Wat Pho 按摩學校</name><description>排定：9/26 選項
+30 分 480 銖
+https://watpomassage.com/en</description><styleUrl>#s_按摩健身</styleUrl><Point><coordinates>100.4941083,13.7465966,0</coordinates></Point></Placemark></Folder></Document></kml>
